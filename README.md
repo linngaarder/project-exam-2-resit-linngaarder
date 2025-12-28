@@ -17,8 +17,8 @@ With a list of requirements:
 13. A registered user may `react` to any `Post` with an emoji
 14. A registered user may `follow` and `unfollow` another `Profile`
 
-
-I used react and bootstrap sass css to create this project.
+## This site was made using:
+React and bootstrap sass
 
 ## Installing
 
